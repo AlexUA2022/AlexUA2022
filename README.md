@@ -14,7 +14,7 @@ Manual QA, Black/Grey box testing, Web/Mobile testing Regression, Sanity, Smoke 
 </p>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default" alt="GitHub Stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexUA2022&theme=algolia" alt="GitHub Stats">
 </div>
 
 
