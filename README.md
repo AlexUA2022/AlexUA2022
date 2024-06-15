@@ -19,15 +19,35 @@ A driven quality control engineer with 1 year of hands-on experience in function
 
 <h2>🔧 Skills and Tools:</h2>
 <p>
-<img alt="Jira" src="https://img.shields.io/badge/-Jira-4493f8?style=flat-square&logo=jira&logoColor=#4493f8" style="max-width: 100%;">
-<img alt="TestRail" src="https://img.shields.io/badge/-TestRail-0052CC?style=flat-square&logo=TestRail&logoColor=white" style="max-width: 100%;">
-<img alt="Trello" src="https://img.shields.io/badge/-Trello-DA62AC?style=flat-square&logo=Trello&logoColor=white" style="max-width: 100%;">
-<img alt="MantisBT" src="https://img.shields.io/badge/-MantisBT-82B536?style=flat-square&logo=MantisBT&logoColor=white" style="max-width: 100%;">
-<img alt="Qase" src="https://img.shields.io/badge/-Qase-8e58ff?style=flat-square&logo=Qase&logoColor=white" style="max-width: 100%;">
-<img alt="git" src="https://camo.githubusercontent.com/3d4a55e7d45198177f13f9f10c536edd2970c43d753759585e3391d04677e56d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" style="max-width: 100%;">
-<img alt="github actions" src="https://camo.githubusercontent.com/4f8210669c113b24c8b6dae514e63df3f10aa8b5fa1142df5a6eaf0e7e421c7e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875625f416374696f6e732d3230383846463f7374796c653d666c61742d737175617265266c6f676f3d6769746875622d616374696f6e73266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&amp;logo=github-actions&amp;logoColor=white" style="max-width: 100%;">
-<img alt="html5" src="https://camo.githubusercontent.com/6010a85175edf5787bba645d2bdad7ec26f41aafce3f5a59569352de55deed74/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;">
-<img alt="CSS" src="https://img.shields.io/badge/-CSS-4493f8?style=flat-square&logo=css&logoColor=#4493f8" style="max-width: 100%;">
+<img alt="Jira" src="https://img.shields.io/badge/-Jira-4493f8?style=plastic&logo=jira&logoColor=#4493f8" style="max-width: 100%;">
+<img alt="TestRail" src="https://img.shields.io/badge/-TestRail-0052CC?style=plastic&logo=TestRail&logoColor=white" style="max-width: 100%;">
+<img alt="Trello" src="https://img.shields.io/badge/-Trello-DA62AC?style=plastic&logo=Trello&logoColor=white" style="max-width: 100%;">
+<img alt="MantisBT" src="https://img.shields.io/badge/-MantisBT-82B536?style=plastic&&logo=MantisBT&logoColor=white" style="max-width: 100%;">
+<img alt="Qase" src="https://img.shields.io/badge/-Qase-8e58ff?style=plastic&logo=Qase&logoColor=white" style="max-width: 100%;">
+<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" style="max-width: 100%;">
+<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github&logoColor=white" style="max-width: 100%;">
+<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white" style="max-width: 100%;">
+<img alt="CSS" src="https://img.shields.io/badge/-CSS-4493f8?style=plastic&logo=css&logoColor=#4493f8" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/2f905621ee5644a796e1b557db60e2f082406cd477bade76014eebcbc53e8e5a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d2532334646364333373f7374796c653d706c6173746963266c6f676f3d706f73746d616e266c6f676f436f6c6f723d626c61636b" alt="Static Badge" data-canonical-src="https://img.shields.io/badge/Postman-%23FF6C37?style=plastic&amp;logo=postman&amp;logoColor=black" style="max-width: 100%;">
+<img alt="Notion" src="https://img.shields.io/badge/-Notion-FFFFFF?style=plastic&logo=Notion&logoColor=black" style="max-width: 100%;">
+<img alt="Android Studio" src="https://img.shields.io/badge/-Android Studio-4493f8?style=plastic&logo=Android Studio&logoColor=#4493f8" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/6af12c256e67be66d0e527efe2e2dcd568835cfdef3fee628d0547976685a8aa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537761676765722d2532333037324135303f7374796c653d706c6173746963266c6f676f3d73776167676572266c6f676f436f6c6f723d253233383545413244" alt="Static Badge" data-canonical-src="https://img.shields.io/badge/Swagger-%23072A50?style=plastic&amp;logo=swagger&amp;logoColor=%2385EA2D" style="max-width: 100%;">
+<img alt="Figma" src="https://img.shields.io/badge/-Figma-FFFFFF?style=plastic&logo=Figma&logoColor=black" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/8fee7fc995514bcc981ba81f5d5e4fba63e404c7fa36b4764a0b6bbc348b7e71/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4465762d546f6f6c732d626c75653f7374796c653d706c6173746963266c6162656c436f6c6f723d6772617926636f6c6f723d626c7565" alt="Static Badge" data-canonical-src="https://img.shields.io/badge/Dev-Tools-blue?style=plastic&amp;labelColor=gray&amp;color=blue" style="max-width: 100%;">
+<img alt="Playwright" src="https://img.shields.io/badge/-Playwright-8e58ff?style=plastic&logo=Playwright&logoColor=white" style="max-width: 100%;">
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-FFFF00?style=plastic&logo=JavaScript&logoColor=black" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/b734b07580704b3c4beff875f90d5cabb5fade821b5138b233cfac562520db2b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d69726f2d4c696d653f7374796c653d706c6173746963266c6f676f3d6d69726f" alt="Static Badge" data-canonical-src="https://img.shields.io/badge/Miro-Lime?style=plastic&amp;logo=miro" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/1f606d315920d5eb6422b0e9a1f89bc91c27b9f116991e733fb2e4c936ebe3c7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6e666c75656e63652d77686974653f7374796c653d706c6173746963266c6f676f3d636f6e666c75656e6365266c6f676f436f6c6f723d253233313732423444" alt="Static Badge" data-canonical-src="https://img.shields.io/badge/Confluence-white?style=plastic&amp;logo=confluence&amp;logoColor=%23172B4D" style="max-width: 100%;">
+<img alt="Visual studio code" src="https://img.shields.io/badge/-Visual studio code-4493f8?style=plastic&logo=visual studio code&logoColor=#4493f8" style="max-width: 100%;">
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="20" role="img" aria-label="MySQL">
+  <title>MySQL</title>
+  <rect width="65" height="20" fill="#4493f8" rx="4" ry="4"/>
+  <image x="3" y="3" width="14" height="14" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAABnRSTlMAAAAAAABupgeRAAABwklEQVR4AVySA3AkQRSG+2wb5TqjeLZt24xt27Zt27Zt20nZm3/SWz2bnRo9fI9NXtmHLf9kQt4akMea5KE6eWdI7yUfjMTurX+sv7jGk+2/rT3TKms7h7Jru15YhUPcL+G86rMpB7/QYTD9AUOOyLtnVrVDuGMWmlvbWdLcV1jf3TU4EVPSdFrHl2NeLMpGoLKOK1IJyCC3FLmob/RRG4r8aheNtLElTbv+2kDDiiT4A4OqJD2TyT3VO4YBav7p0NCSJD3jRsZnnlmGQRQCtD4ERg8Ihp9DUg6c8v3C/UDtqILL2OTcX8dY4Ugoh2DvbcPsE0uQBFoewP1UC2MA88Q8lGPYBMAE59TeNwmmw4Erw+B3RsMPzLqvZkKAe78yhFzS2HNQzklsDxDBOCSVJpa3EjGtb3rlUUVXVpWoFctt6x/nAdzo2C+zGnmQDf/wYPlpn8cVXQhT0TYosOG7+XPzIIgsFo+JCigJSzyp5PrEJlIgEOz9ZyPK8AC7cQouavuC+eIQU9c+GJpXh5XTGfKd4DwxFS3UICwHE5T3Sb1qGGgelU8+mDMr54wLH5YEjaJdbAOdYIno8pqmO/LMD64aAI9KJeRHIoWtAAAAAElFTkSuQmCC"/>
+  <text x="23" y="14" fill="#FFFFFF" font-family="Verdana" font-size="11">MySQL</text>
+</svg>
+
+
+
 
 
 <div align="center">
