@@ -23,15 +23,9 @@ A driven quality control engineer with 1 year of hands-on experience in function
 <img alt="MantisBT" src="https://img.shields.io/badge/-MantisBT-82B536?style=flat-square&logo=MantisBT&logoColor=white" style="max-width: 100%;">
 <img alt="Qase" src="https://img.shields.io/badge/-Qase-8e58ff?style=flat-square&logo=Qase&logoColor=white" style="max-width: 100%;">
 <img alt="git" src="https://camo.githubusercontent.com/3d4a55e7d45198177f13f9f10c536edd2970c43d753759585e3391d04677e56d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" style="max-width: 100%;">
-<img alt="git" src="https://camo.githubusercontent.com/3d4a55e7d45198177f13f9f10c536edd2970c43d753759585e3391d04677e56d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" style="max-width: 100%;">
-
-
-
-
-
-
-
-
+<img alt="github actions" src="https://camo.githubusercontent.com/4f8210669c113b24c8b6dae514e63df3f10aa8b5fa1142df5a6eaf0e7e421c7e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875625f416374696f6e732d3230383846463f7374796c653d666c61742d737175617265266c6f676f3d6769746875622d616374696f6e73266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&amp;logo=github-actions&amp;logoColor=white" style="max-width: 100%;">
+<img alt="html5" src="https://camo.githubusercontent.com/6010a85175edf5787bba645d2bdad7ec26f41aafce3f5a59569352de55deed74/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;">
+<img alt="CSS" src="https://img.shields.io/badge/-CSS-4493f8?style=flat-square&logo=css&logoColor=#4493f8" style="max-width: 100%;">
 
 
 <div align="center">
@@ -39,6 +33,8 @@ A driven quality control engineer with 1 year of hands-on experience in function
 </div>
 
 <h2> Where to find me:</h2>
+<a href="https://github.com/AlexUA2022"><img alt="Github" src="https://camo.githubusercontent.com/2a822909e8b8c12ecaddf706efc32e83a8e61609e1eb1793f31d9101ed38a954/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d2532333132313030452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d476974687562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/GitHub-%2312100E.svg?&amp;style=for-the-badge&amp;logo=Github&amp;logoColor=white" style="max-width: 100%;"></a>
+
 
 
 
