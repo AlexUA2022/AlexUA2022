@@ -6,7 +6,7 @@
 
 <p>
   Welcome to my page! I'm Alexander, QA Engineer from 
-<img src="https://camo.githubusercontent.com/d0995483cb7df3a2eafbe4cfdfaa3313252d96deb4e092d924464dab27dfb587/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f342f34392f466c61675f6f665f556b7261696e652e737667" width="20" height="20" style="border-radius: 50%; display: inline-block;">
+<img src="https://cdn-icons-png.flaticon.com/512/197/197572.png" width="13" height="13" alt="Украина бесплатно иконка" title="Украина бесплатно иконка">
  Kyiv, Ukraine.
 </p>
 
@@ -21,6 +21,11 @@ A driven quality control engineer with 1 year of hands-on experience in function
 <img alt="TestRail" src="https://img.shields.io/badge/-TestRail-0052CC?style=flat-square&logo=TestRail&logoColor=white" style="max-width: 100%;">
 <img alt="Trello" src="https://img.shields.io/badge/-Trello-DA62AC?style=flat-square&logo=Trello&logoColor=white" style="max-width: 100%;">
 <img alt="MantisBT" src="https://img.shields.io/badge/-MantisBT-82B536?style=flat-square&logo=MantisBT&logoColor=white" style="max-width: 100%;">
+<img alt="Qase" src="https://img.shields.io/badge/-Qase-8e58ff?style=flat-square&logo=Qase&logoColor=white" style="max-width: 100%;">
+<img alt="git" src="https://camo.githubusercontent.com/3d4a55e7d45198177f13f9f10c536edd2970c43d753759585e3391d04677e56d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" style="max-width: 100%;">
+<img alt="git" src="https://camo.githubusercontent.com/3d4a55e7d45198177f13f9f10c536edd2970c43d753759585e3391d04677e56d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" style="max-width: 100%;">
+
+
 
 
 
