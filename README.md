@@ -6,7 +6,8 @@
 
 <p>
   Welcome to my page! I'm Alexander, QA Engineer from 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" width="20" height="20" style="vertical-align: middle; border-radius: 50%;"> Kyiv, Ukraine.
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" width="20" height="20" style="border-radius: 50%;">
+ Kyiv, Ukraine.
 </p>
 
 <h2>✍️ About Me:</h2>
