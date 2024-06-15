@@ -6,7 +6,7 @@
 
 <p>
   Welcome to my page! I'm Alexander, QA Engineer from 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" width="20" height="20" style="border-radius: 50%;">
+<img src="https://camo.githubusercontent.com/d0995483cb7df3a2eafbe4cfdfaa3313252d96deb4e092d924464dab27dfb587/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f342f34392f466c61675f6f665f556b7261696e652e737667" width="20" height="20" style="border-radius: 50%; display: inline-block;">
  Kyiv, Ukraine.
 </p>
 
