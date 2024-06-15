@@ -16,11 +16,23 @@ A driven quality control engineer with 1 year of hands-on experience in function
 
 <h2>🔧 Skills and Tools:</h2>
 <p>
+<img alt="Jira" src="https://img.shields.io/badge/-Jira-4493f8?style=flat-square&logo=jira&logoColor=#4493f8" style="max-width: 100%;">
+<img alt="TestRail" src="https://img.shields.io/badge/-TestRail-0052CC?style=flat-square&logo=TestRail&logoColor=white" style="max-width: 100%;">
+<img alt="Trello" src="https://img.shields.io/badge/-Trello-DA62AC?style=flat-square&logo=Trello&logoColor=white" style="max-width: 100%;">
+<img alt="MantisBT" src="https://img.shields.io/badge/-MantisBT-82B536?style=flat-square&logo=MantisBT&logoColor=white" style="max-width: 100%;">
+
+
+
+
+
+
 
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexUA2022&theme=algolia" alt="GitHub Stats">
 </div>
+
+<h2> Where to find me:</h2>
 
 
 
