@@ -55,8 +55,12 @@ A driven quality control engineer with 1 year of hands-on experience in function
 </div>
 
 <h2> Where to find me:</h2>
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&amp;style=for-the-badge&amp;logo=Github&amp;logoColor=white&amp;link=https://github.com/AlexUA2022" style="max-width: 100%;">
-<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/alexander-saponov" style="max-width: 100%;">
+<a href="https://github.com/AlexUA2022">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&amp;style=for-the-badge&amp;logo=Github&amp;logoColor=white" style="max-width: 100%;">
+</a>
+<a href="https://www.linkedin.com/in/alexander-saponov">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+</a>
 
 
 
