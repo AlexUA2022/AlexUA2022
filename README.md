@@ -49,14 +49,6 @@ A driven quality control engineer with 1 year of hands-on experience in function
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-4493f8?style=plastic&logo=visual studio code&logoColor=#4493f8" style="max-width: 100%;">
 <img alt="Google Sheets" src="https://img.shields.io/badge/-Google Sheets-FFFFFF?style=plastic&logo=Google Sheets&logoColor=#4493f8" style="max-width: 100%;">
 
-
-
-
-
-
-
-
-
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexUA2022&theme=algolia" alt="GitHub Stats">
 </div>
@@ -66,13 +58,13 @@ A driven quality control engineer with 1 year of hands-on experience in function
 <a href="http://t.me/av_saponov">
   <img alt="Telegram" src="https://img.shields.io/badge/Telegram-%234493f8.svg?&style=for-the-badge&logo=Telegram&logoColor=white" style="max-width: 100%; border-radius: 10px;">
 </a>
-<a href="https://join.slack.com/t/yourworkspace/shared_invite/zt-abc1234567-abcdefgHIJKLmnopQRstu" target="_blank">
-<a href="https://github.com/AlexUA2022">
+<a href="https://github.com/AlexUA2022?theme=dark">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" style="max-width: 100%; border-radius: 10px;">
 </a>
 <a href="https://www.linkedin.com/in/alexander-saponov">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%; border-radius: 10px;">
 </a>
+
 
 
 
