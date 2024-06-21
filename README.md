@@ -53,7 +53,7 @@ A driven quality control engineer with 1 year of hands-on experience in function
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexUA2022&theme=algolia" alt="GitHub Stats">
 </div>
 
-<h2> Where to find me:</h2>
+<h2> Where to find me: </h2>
 
 <a href="http://t.me/av_saponov">
   <img alt="Telegram" src="https://img.shields.io/badge/Telegram-%234493f8.svg?&style=for-the-badge&logo=Telegram&logoColor=white" style="max-width: 100%; border-radius: 10px;">
