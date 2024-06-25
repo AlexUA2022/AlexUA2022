@@ -50,7 +50,7 @@ A driven quality control engineer with 1 year of hands-on experience in function
 <img alt="Google Sheets" src="https://img.shields.io/badge/-Google Sheets-FFFFFF?style=plastic&logo=Google Sheets&logoColor=#4493f8" style="max-width: 100%;">
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexUA2022&theme=algolia&cache_buster=3" alt="GitHub Stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexUA2022&theme=algolia&cache_buster=4" alt="GitHub Stats">
 </div>
 
 
