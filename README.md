@@ -1,6 +1,6 @@
 <h1>
   <p align="center">
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="blob sunglasses" style="max-width: 100%; display: inline-block;">
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="blob sunglasses" width="50" height="50">
   Hey! Nice to see you.
   </p>
 </h1>
