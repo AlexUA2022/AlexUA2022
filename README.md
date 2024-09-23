@@ -29,7 +29,7 @@ A driven quality control engineer with 1 year of hands-on experience in function
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=plastic&logo=Git&logoColor=FFFFFF" style="max-width: 100%;">
 <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-FFFFFF?style=plastic&logo=GitHub&logoColor=black" style="max-width: 100%;">
 <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub Actions-4493f8?style=plastic&logo=GitHub Actions&logoColor=black" style="max-width: 100%;">
-<img src="https://camo.githubusercontent.com/b734b07580704b3c4beff875f90d5cabb5fade821b5138b233cfac562520db2b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d69726f2d4c696d653f7374796c653d706c6173746963266c6f676f3d6d69726f" alt="Static Badge" data-canonical-src="https://img.shields.io/badge/Miro-Lime?style=plastic&amp;logo=miro" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/Miro-Lime?style=plastic&logo=miro" alt="Static Badge" style="max-width: 100%;">
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white" style="max-width: 100%;">
 <img alt="CSS" src="https://img.shields.io/badge/-CSS-4493f8?style=plastic&logo=css&logoColor=#4493f8" style="max-width: 100%;">
 <img alt="JSON" src="https://img.shields.io/badge/-JSON-072A50?style=plastic&logo=json&logoColor=#4493f8" style="max-width: 100%;">
