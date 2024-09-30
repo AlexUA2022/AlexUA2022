@@ -22,6 +22,7 @@ A driven quality control engineer with 1 year of hands-on experience in function
 <p>
 
 <img src="https://img.shields.io/badge/JIRA-4493f8?style=plastic&logo=jirasoftware&logoColor=%23FFFFFF" alt="Static Badge">
+<img src="https://img.shields.io/badge/Zephyr-4493f8?style=plastic&logo=zephyr&logoColor=FFFFFF" alt="Static Badge">
 <img alt="TestRail" src="https://img.shields.io/badge/-TestRail-0052CC?style=plastic&logo=TestRail&logoColor=white" style="max-width: 100%;">
 <img alt="Trello" src="https://img.shields.io/badge/-Trello-DA62AC?style=plastic&logo=Trello&logoColor=white" style="max-width: 100%;">
 <img alt="MantisBT" src="https://img.shields.io/badge/-MantisBT-82B536?style=plastic&&logo=MantisBT&logoColor=white" style="max-width: 100%;">
@@ -49,7 +50,7 @@ A driven quality control engineer with 1 year of hands-on experience in function
 <img src="https://img.shields.io/badge/XAMPP-FF6C37?style=plastic&logo=XAMPP&logoColor=%23172B4D" alt="Static Badge" style="max-width: 100%;">
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-4493f8?style=plastic&logo=visual studio code&logoColor=#4493f8" style="max-width: 100%;">
 <img alt="Google Sheets" src="https://img.shields.io/badge/-Google Sheets-FFFFFF?style=plastic&logo=Google Sheets&logoColor=#4493f8" style="max-width: 100%;">
-<img src="https://img.shields.io/badge/BrowserStack-8e58ff?style=plastic&logo=BrowserStack&logoColor=%23172B4D" alt="Static Badge" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/BrowserStack-8e58ff?style=plastic&logo=BrowserStack&logoColor=%23FFFFFF" alt="Static Badge" style="max-width: 100%;">
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexUA2022&theme=algolia&cache_buster=4" alt="GitHub Stats">
