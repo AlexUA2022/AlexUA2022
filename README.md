@@ -35,6 +35,7 @@ A driven quality control engineer with 1 year of hands-on experience in function
 <img alt="CSS" src="https://img.shields.io/badge/-CSS-4493f8?style=plastic&logo=css&logoColor=#4493f8" style="max-width: 100%;">
 <img alt="JSON" src="https://img.shields.io/badge/-JSON-072A50?style=plastic&logo=json&logoColor=#4493f8" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/Postman-%23FF6C37?style=plastic&logo=postman&logoColor=black" alt="Static Badge" style="max-width: 100%;">
+<img alt="SoapUI" src="https://img.shields.io/badge/-SoapUI-82B536?style=plastic&&logo=SoapUI&logoColor=white" style="max-width: 100%;">
 <img alt="Notion" src="https://img.shields.io/badge/-Notion-FFFFFF?style=plastic&logo=Notion&logoColor=black" style="max-width: 100%;">
 <img alt="Android Studio" src="https://img.shields.io/badge/-Android Studio-4493f8?style=plastic&logo=Android Studio&logoColor=#4493f8" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/Swagger-%23072A50?style=plastic&logo=swagger&logoColor=%2385EA2D" alt="Static Badge" style="max-width: 100%;">
