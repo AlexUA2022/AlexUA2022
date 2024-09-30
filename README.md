@@ -50,6 +50,7 @@ A driven quality control engineer with 1 year of hands-on experience in function
 <img src="https://img.shields.io/badge/Joomla-8e58ff?style=plastic&logo=Joomla&logoColor=%23172B4D" alt="Static Badge" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/XAMPP-FF6C37?style=plastic&logo=XAMPP&logoColor=%23172B4D" alt="Static Badge" style="max-width: 100%;">
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white" style="max-width: 100%;">
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" style="max-width: 100%;">
 <img alt="Google Sheets" src="https://img.shields.io/badge/-Google Sheets-FFFFFF?style=plastic&logo=Google Sheets&logoColor=#4493f8" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/BrowserStack-8e58ff?style=plastic&logo=BrowserStack&logoColor=%23FFFFFF" alt="Static Badge" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/ChatGPT-00C853?style=plastic&logo=openai&logoColor=FFFFFF" alt="ChatGPT Badge">
