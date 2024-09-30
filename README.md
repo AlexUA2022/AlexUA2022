@@ -32,7 +32,7 @@ A driven quality control engineer with 1 year of hands-on experience in function
 <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub Actions-4493f8?style=plastic&logo=GitHub Actions&logoColor=black" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/Miro-Lime?style=plastic&logo=miro" alt="Static Badge" style="max-width: 100%;">
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white" style="max-width: 100%;">
-<img alt="CSS" src="https://img.shields.io/badge/-CSS-4493f8?style=plastic&logo=css&logoColor=#4493f8" style="max-width: 100%;">
+<img alt="CSS" src="https://img.shields.io/badge/CSS-4493f8?style=plastic&logo=css3&logoColor=FFFFFF" style="max-width: 100%;">
 <img alt="JSON" src="https://img.shields.io/badge/-JSON-072A50?style=plastic&logo=json&logoColor=#4493f8" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/Postman-%23FF6C37?style=plastic&logo=postman&logoColor=black" alt="Static Badge" style="max-width: 100%;">
 <img alt="SoapUI" src="https://img.shields.io/badge/-SoapUI-82B536?style=plastic&&logo=SoapUI&logoColor=white" style="max-width: 100%;">
