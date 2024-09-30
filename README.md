@@ -53,6 +53,9 @@ A driven quality control engineer with 1 year of hands-on experience in function
 <img alt="Google Sheets" src="https://img.shields.io/badge/-Google Sheets-FFFFFF?style=plastic&logo=Google Sheets&logoColor=#4493f8" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/BrowserStack-8e58ff?style=plastic&logo=BrowserStack&logoColor=%23FFFFFF" alt="Static Badge" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/ChatGPT-00C853?style=plastic&logo=openai&logoColor=FFFFFF" alt="ChatGPT Badge">
+<img alt="Zoom" src="https://img.shields.io/badge/Zoom-0B5CFF?style=plastic&logo=zoom&logoColor=white" style="max-width: 100%;">
+<img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white" style="max-width: 100%;">
+
 
 
 <div align="center">
