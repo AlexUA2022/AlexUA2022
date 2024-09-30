@@ -46,7 +46,7 @@ A driven quality control engineer with 1 year of hands-on experience in function
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-FFFF00?style=plastic&logo=JavaScript&logoColor=black" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/Linux-FFFFFF?style=plastic&logo=linux&logoColor=black&labelColor=FFFFFF" alt="Static Badge">
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-0052CC?style=plastic&logo=MySQL&logoColor=white" style="max-width: 100%;">
-<img src="https://img.shields.io/badge/Confluence-82B536?style=plastic&logo=confluence&logoColor=FFFFFF" alt="Static Badge" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/Confluence-FF0000?style=plastic&logo=confluence&logoColor=FFFFFF" alt="Static Badge">
 <img src="https://img.shields.io/badge/Joomla-8e58ff?style=plastic&logo=Joomla&logoColor=%23172B4D" alt="Static Badge" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/XAMPP-FF6C37?style=plastic&logo=XAMPP&logoColor=%23172B4D" alt="Static Badge" style="max-width: 100%;">
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-4493f8?style=plastic&logo=visual studio code&logoColor=#4493f8" style="max-width: 100%;">
