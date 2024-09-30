@@ -42,7 +42,7 @@ A driven quality control engineer with 1 year of hands-on experience in function
 <img src="https://img.shields.io/badge/Charles-%231828FF?style=plastic&logo=charles&logoColor=%23F3F5F5" alt="Static Badge" style="max-width: 100%;">
 <img alt="Figma" src="https://img.shields.io/badge/-Figma-DA62AC?style=plastic&logo=Figma&logoColor=black" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/Dev-Tools-blue?style=plastic&labelColor=gray&color=blue" alt="Static Badge" style="max-width: 100%;">
-<img alt="Playwright" src="https://img.shields.io/badge/-Playwright-8e58ff?style=plastic&logo=Playwright&logoColor=white" style="max-width: 100%;">
+<img alt="Playwright" src="https://img.shields.io/badge/Playwright-8e58ff?style=plastic&logo=playwright&logoColor=white" style="max-width: 100%;">
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-FFFF00?style=plastic&logo=JavaScript&logoColor=black" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/Linux-FFFFFF?style=plastic&logo=linux&logoColor=black&labelColor=FFFFFF" alt="Static Badge">
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-0052CC?style=plastic&logo=MySQL&logoColor=white" style="max-width: 100%;">
