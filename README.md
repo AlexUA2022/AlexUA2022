@@ -52,6 +52,8 @@ A driven quality control engineer with 1 year of hands-on experience in function
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-4493f8?style=plastic&logo=visual studio code&logoColor=#4493f8" style="max-width: 100%;">
 <img alt="Google Sheets" src="https://img.shields.io/badge/-Google Sheets-FFFFFF?style=plastic&logo=Google Sheets&logoColor=#4493f8" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/BrowserStack-8e58ff?style=plastic&logo=BrowserStack&logoColor=%23FFFFFF" alt="Static Badge" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/ChatGPT-00C853?style=plastic&logo=openai&logoColor=FFFFFF" alt="ChatGPT Badge">
+
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexUA2022&theme=algolia&cache_buster=4" alt="GitHub Stats">
