@@ -25,7 +25,7 @@ A driven quality control engineer with 1 year of hands-on experience in function
 <img src="https://img.shields.io/badge/Zephyr-FF0000?style=plastic&logo=zephyr&logoColor=FFFFFF" alt="Static Badge">
 <img alt="TestRail" src="https://img.shields.io/badge/-TestRail-0052CC?style=plastic&logo=TestRail&logoColor=white" style="max-width: 100%;">
 <img alt="Trello" src="https://img.shields.io/badge/-Trello-DA62AC?style=plastic&logo=Trello&logoColor=white" style="max-width: 100%;">
-<img alt="MantisBT" src="https://img.shields.io/badge/-MantisBT-82B536?style=plastic&&logo=MantisBT&logoColor=white" style="max-width: 100%;">
+<img alt="MantisBT" src="https://img.shields.io/badge/MantisBT-82B536?style=plastic&logo=mantis&logoColor=white" style="max-width: 100%;">
 <img alt="Qase" src="https://img.shields.io/badge/-Qase-8e58ff?style=plastic&logo=Qase&logoColor=white" style="max-width: 100%;">
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=plastic&logo=Git&logoColor=FFFFFF" style="max-width: 100%;">
 <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-FFFFFF?style=plastic&logo=GitHub&logoColor=black" style="max-width: 100%;">
